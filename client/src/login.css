@@ -1,0 +1,45 @@
+.imgcontainer {
+    text-align: right;
+    width: 50%;
+    margin-left: 10%
+  }
+  
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  
+
+  .cardsize3{
+    height: 520px;
+    width: 500px;
+    margin-top: 12px;
+    margin-left: 470px
+  }
+  
+  .submit{
+    width: 100% !important;
+    margin-top: 35px;
+  }
+  
+  .marg{
+    margin-top: 55px !important;
+  }
+  .header4{
+    background-color: #26a69a !important;
+    text-align: center;
+    color: white;
+  }
+  .headersignup{
+    text-align: left;
+    font-size: 30px;
+    color: white;
+  }
+  .signup{
+    font-size: 16px;
+  }
+  .card{
+    margin: 0 auto; 
+    float: none;
+  }
